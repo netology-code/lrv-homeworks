@@ -4,4 +4,4 @@
 Важно: [Инструкция по установке SQLite](phpstorm-sqlite.md)
 
 ## Оглавление
-1.1. [Laravel. Вступление.](/001-intro)
+1.1. [1.1 Фреймворки в PHP: Laravel](/001-intro)
