@@ -1,12 +1,13 @@
 # Задание 1. Знакомство с документацией
 
 В лекции были затронуты следующие темы:
-* [Конфигурации](https://laravel.com/docs/7.x/configuration)
-* [Жизненный цикл запрос](https://laravel.com/docs/7.x/lifecycle)
-* [Сервис-контейнеры](https://laravel.com/docs/7.x/container)
-* [Сервис-провайдеры](https://laravel.com/docs/7.x/providers)
-* [Фасады](https://laravel.com/docs/7.x/facades)
-* [Контракты](https://laravel.com/docs/7.x/contracts)
+* [HTTP Requests](https://laravel.com/docs/8.x/requests)
+* [Database: Getting Started](https://laravel.com/docs/8.x/database)
+* [Database: Миграции](https://laravel.com/docs/8.x/migrations)
+* [Eloquent: Getting Started](https://laravel.com/docs/8.x/eloquent)
+* [Database: Конструктор запросов](https://laravel.com/docs/8.x/queries)
+* [Eloquent: Отношения](https://laravel.com/docs/8.x/eloquent-relationships)
+* [Шаблнизатор Blade](https://laravel.com/docs/8.x/blade)
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе.
 
