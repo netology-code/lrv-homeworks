@@ -1,10 +1,10 @@
 # Задание 1. Знакомство с документацией
 
 В лекции были затронуты следующие темы:
-* [Подключение баз данных](https://laravel.com/docs/7.x/database)
-* [Конструктор запросов](https://laravel.com/docs/7.x/queries)
-* [Миграции](https://laravel.com/docs/7.x/migrations)
-* [ORM](https://laravel.com/docs/7.x/eloquent)
+* [Цепочка обязанностей](https://refactoring.guru/ru/design-patterns/chain-of-responsibility)
+* [Middleware](https://laravel.com/docs/8.x/middleware#introduction)
+* [Laravel UI](https://github.com/laravel/ui)
+* [Routing](https://laravel.com/docs/8.x/routing#basic-routing)
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе.
 
