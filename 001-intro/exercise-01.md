@@ -4,7 +4,7 @@
 1. [Немного о том, что такое Vagrant](https://wiki.merionet.ru/servernye-resheniya/29/vagrant-ustanovka-i-nastrojka/).
 2. [Homestead и работа с ним](https://laravel.ru/docs/v5/homestead).
 
-**Важно** Для простоты можно использовать установку composer и Laravel самостоятельно. Инструкции по установке:
+**Важно**. Для простоты можно использовать установку composer и Laravel самостоятельно. Инструкции по установке:
 * [установка composer](https://www.hostinger.ru/rukovodstva/kak-ustanovit-composer);
 * [установка Laravel](https://laravel.su/docs/5.4/installation).
 
