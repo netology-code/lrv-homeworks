@@ -12,7 +12,7 @@
 1. [Полезная статья про composer со ссылками на оригинальную документацию](https://habr.com/ru/post/439200/).
 2. [Пример работы с composer не во фреймворке, а в собственном небольшом проекте](https://nicknixer.ru/saitostroitelstvo/primenenie-i-ispolzovanie-composer-dlya-php/).
 3. [Рускоязычный сайт по Laravel](https://laravel.su/).
-4. [Оригинальная и более подробная документация по Laravel (на английском)](https://laravel.com/docs/7.x/installation).
+4. [Оригинальная и более подробная документация по Laravel](https://laravel.com/docs/7.x/installation) (на английском).
 
 
 Если в текстах вам встречаются незнакомые понятия, это не критично. При их изучении дальше мы будем возвращаться к данным соглашениям.
