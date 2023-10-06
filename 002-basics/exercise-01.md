@@ -1,16 +1,74 @@
 # Задание 1. Знакомство с документацией
 
-В лекции были затронуты следующие темы, которые мы предлагаем вам изучить в документации:
-* [HTTP Requests](https://laravel.com/docs/8.x/requests)
-* [Database: Getting Started](https://laravel.com/docs/8.x/database)
-* [Database: Миграции](https://laravel.com/docs/8.x/migrations)
-* [Eloquent: Getting Started](https://laravel.com/docs/8.x/eloquent)
-* [Database: Конструктор запросов](https://laravel.com/docs/8.x/queries)
-* [Eloquent: Отношения](https://laravel.com/docs/8.x/eloquent-relationships)
-* [Шаблонизатор Blade](https://laravel.com/docs/8.x/blade)
+В лекции были затронуты следующие темы, по которым можно получить дополнительную информацию в документации.
+По каждой теме представлен список вопросов/тем, информацию по которым очень важно закрепить, а также ссылки на документации на русском и английском языках.
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе.
 
+**Обратите внимание**: Русскоязычная документация написана для 8й версии фреймворка, хотя актуальной (на момент написания домашнего задания) является 10-ая версия.
+Самую актуальную информацию можно получить только в официальной документации.
 
+## 1. HTTP-запросы
 
+- [Документация (рус)](https://laravel.su/docs/8.x/requests)
+- [Официальная документация (англ)](https://laravel.com/docs/10.x/requests)
 
+**Основные вопросы**:
+- Определение маршрутов
+- Работа с объектом запроса и телом запроса
+
+## 2. База данных
+
+- [Документация (рус)](https://laravel.su/docs/8.x/database)
+- [Официальная документация (англ)](https://laravel.com/docs/10.x/database)
+
+**Основные вопросы**:
+- Настройка базы данных и подключение к проекту
+
+## 3. Миграции
+
+- [База данных: Миграции](https://laravel.su/docs/8.x/migrations)
+- [Database: Migrations](https://laravel.com/docs/10.x/migrations)
+
+**Основные вопросы**:
+- Что такое миграция
+- Написание миграций
+- Запуск и откат миграций
+- Определение полей через миграции
+- Работа с ограничениями в миграциях
+
+## 4. Конструктор запросов (QueryBuilder)
+
+- [База данных: Построитель запросов](https://laravel.su/docs/8.x/queries)
+- [Database: Query Builder](https://laravel.com/docs/10.x/queries)
+
+**Основные вопросы**:
+- Написание SQL запросов через Построитель запросов
+
+## 5. Eloquent ORM
+
+- [Eloquent: Начало работы](https://laravel.su/docs/8.x/eloquent)
+- [Eloquent: Getting Started](https://laravel.com/docs/10.x/eloquent)
+
+**Основные вопросы**:
+- Для чего нужна Eloquent ORM?
+- Настройка моделей Eloquent
+- Получение моделей и создание/обновление моделей
+
+## 6. Отношения в Eloquent ORM
+
+- [Eloquent: Отношения](https://laravel.su/docs/8.x/eloquent-relationships)
+- [Eloquent: Relationships](https://laravel.com/docs/10.x/eloquent-relationships)
+
+**Основные вопросы**:
+- Определение отношений в Eloquent ORM
+- Жадная загрузка
+
+## 7. Шаблонизатор Blade
+
+- [Шаблонизатор Blade](https://laravel.su/docs/8.x/blade)
+- [Blade Templates](https://laravel.com/docs/10.x/blade)
+
+**Основные вопросы**:
+- Для чего нужен шаблонизатор Blade
+- Использование директив в blade
